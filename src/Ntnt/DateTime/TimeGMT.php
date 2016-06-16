@@ -6,7 +6,7 @@
  * Time: 14:12
  */
 
-namespace DateTime;
+namespace Ntnt\DateTime;
 
 
 class TimeGMT
