@@ -1,0 +1,17 @@
+{
+    "name": "ntnt/library",
+    "description": "Thu vien rieng",
+    "authors": [
+        {
+            "name": "nha trang",
+            "email": "nguyentrannhatrang@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Ntnt": "src/"
+        }
+    }
+}
